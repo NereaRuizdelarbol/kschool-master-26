@@ -1,0 +1,307 @@
+
+echo $SHELL
+echo $TERM
+whoami
+echo $HOST
+echo$USE
+cd
+cd
+echo $SHELL
+echo $TERM
+whoami
+echo $HOST
+echo $USER
+printenv
+printenv USER
+printenv HOST
+cd
+conda --version
+echo HOLI
+echo $HOST
+echo "$HOST"
+echo "my name is $HOST"
+'$HOST'
+echo '$HOST'
+echo date
+date
+today is date
+echo today is date
+echo today is `date`
+echo today is `echo date` 
+echo today is ``echo date`` 
+echo today is $(echo date)
+echo today is $(date)
+echo today is $(echo %(date))
+echo today is $date
+clear
+echo "the world is finally\
+ºmine\
+\
+"
+echo "the world is finally\ mine\
+\
+"
+echo 
+echo "hoy es \\ mi dia\ \ "
+echo "hoy es \\domingo" 
+echo "hoy es\\ \
+mi dia\\
+\
+\\
+"
+echo '\\
+kjljfs\\
+ddfnff\\
+coco
+echo "my favorite is "Moby Dick""
+echo "my favorite is \"Moby Dick\"\
+echo "my favorite is \"Moby Dick\""\
+ls\
+echo "my favorite is "Moby Dick""
+ls
+echo \n
+echo "This is in \n two lines"
+echo "This is in \tone\tlines"
+echo holi
+echo holi guapi
+echo holi;guapi
+echo holi; echo guapi
+echo this is echo of echo
+echo this is; echo of echo
+echo this is;echo of echo
+echo this is \;echo of echo
+clear
+cd Data\shell
+cd Data/shell
+ls
+cd
+cat/etc/os-release
+cat /etc/os-release
+cat /proc/cpuinfo
+cd Data/shell
+ls
+cat Text_example.txt
+cat Text_example.txt Text_example.txt Text_example.txt
+cat -n Text_example.txt Text_example.txt Text_example.txt
+pwd
+cd ~
+# dffs
+echo $PWD
+cd /etc
+ls
+cd zsh
+cd /home/dsc
+cd /home/dsc/Data/shell
+.etc
+cd .etc
+cd /etc
+cd /home/dsc/Data/shell
+cd
+cd /home/dsc/Data/shell
+~
+cd ~
+cd .
+cd Data/shell
+cd .
+cd ..
+cd -
+cd /etc
+cd -
+cd ~
+clear
+ls -a
+ls
+ls -al
+ls --help
+ls -A
+ls -1
+ls -s
+ls -1 -s
+ls -lsh
+ls -l -1
+ls -l -1 -s
+ls -l1s
+ls -la
+ls -Sr
+ls S
+ls -S
+ls -aSr
+ls -laSr
+ls -laS
+ls -lat
+clear
+chmod 777 .history
+ls -l .history
+chmod 755 .history
+ls -l .history
+chmod 644 .history
+ls -l .history
+chmod 600 .history
+ls -l .history
+clear
+mkdir holiguapi_2
+ls
+mkdir holiguapi_2/cosas/nazis
+mkdir -p holiguapi_2/cosas/nazis
+touch newfile
+ls
+ls -l
+cp newfile holiguapi_2/cosas/nazis
+ls holiguapi_2/cosas/nazis
+cp holiguapi_2 mynuevofolder
+cp -r holiguapi_2 mynuevofolder
+mv holiguapi_2 mynuevofolder
+ls
+ls mynuevofolder
+mv mynuevofolder toguapo
+ls
+rm toguapo
+rm -rf toguapo
+ls
+touch text_file.txt
+ls -l text_file.txt
+ls
+mkdir first_dir
+mkdir first_dir_ex1
+mv text_file.txt first_dir_ex1
+ls first_dir_ex1
+chmod 775 text_file.txt
+ls -l text_file.txt
+cd first_dir_ex1
+chmod 775 text_file.txt
+mkdir -p first_dir_ex1/sub1/sub2
+ls 
+ls first_dir_ex1
+mkdir text_file.txt sub1 sub2
+ls
+ls first_dir_ex1
+ls sub1
+mkdir -p text_file.txt/sub1/sub2
+ls
+ls first_dir_ex1
+cp text_file.txt sub1
+ls sub1
+ls sub2
+mv text_file.txt sub2
+ls sub2
+cp sub1 sub3
+cp -r sub1 sub3
+mv sub2/text_file.txt sub2/text_file.2.txt
+ls sub2
+mv sub2/text_file.txt sub2/text_file.backup.txt
+mv sub2/text_file.2.txt sub2/text_file.backup.txt
+ls sub2
+mv sub2/text_file.backup.txt first_dir_ex1/.text_file.backup.txt
+ll
+ls 
+ls first_dir_ex1
+ll first_dir_ex1
+ls sub2
+ls -a
+ls -la
+rm -rf sub2
+ls-la
+ls -la
+clear
+git config --global user.name "NereaRuizdelarbol"
+git config --global user.email "n.ruizdelarbol@gmail.com"
+car ~/.gitconfig
+cat ~/.gitconfig
+git clone https://github.com/NereaRuizdelarbol/Clase_13_Nov_20.git
+[200~git branch -M main
+git branch -M main\
+git push -u origin main
+git init
+cd Clase_13_Nov_20
+ls
+ls -a
+touch chachi_file
+git satatus
+git status
+git add chachi_file
+git commit -m 'primera clase'
+git push
+cd
+cd Repos
+cd ClasesMaster
+cd clasesMaster
+Shell_clase_2020_11_13.txt
+touch Shell_clase_2020_11_13
+Shell_clase_2020_11_13.txt
+git status
+ll Shell_clase_2020_11_13
+ls -la Shell_clase_2020_11_13
+tail Shell_clase_2020_11_13
+cd
+git log
+https://github.com/NereaRuizdelarbol/ClasesMaster26
+cd Repos
+https://github.com/NereaRuizdelarbol/ClasesMaster26
+git clone https://github.com/NereaRuizdelarbol/ClasesMaster26.git
+git add Shell_clase_2020_11_13
+cd clasesMaster
+touch chachi_file
+git status
+git add Shell_clase_2020_11_13
+git commit -m "Introducción"
+git status
+git push
+git diff
+mkfir "first_dir"
+mkdir "first_dir"
+cd first_dir
+touch text_file.txt
+chmod 775 text_file.txt
+mkdir -p text_file.txt/sub1/sub2
+ls 
+mkdir sub1/sub2
+mkdir sub1 sub2
+ls
+ls sub1
+cp text_file.txt sub1
+ls sub1
+mv text_file.txt sub2/text_file.2.txt
+ls sub1
+ls sub2
+mv sub1/text_file.txt sub2/text_file.2.txt
+ls sub1
+ls sub2
+cp sub1 sub3
+cp -r sub1 sub3
+ls
+ls sub3
+ls sub1
+mv sub2/text_file.2.txt sub2/text_file.backup.txt
+ls sub2
+mv sub2/text_file.backup.txt ./.text_file.backup.txt
+rm -r sub2
+ls
+git
+cd
+git clone https://github.com/NereaRuizdelarbol/kschool-master-26.git
+ls
+touch ex1_file
+git add ex1_file
+git init Kschool_master_26
+git clone https://github.com/NereaRuizdelarbol/kschool-master-26.git
+git add ex1_file
+cd first_dir
+gii init
+git init
+git add
+git add first_dir
+git clone https://github.com/NereaRuizdelarbol/kschool-master-26.git
+touch ex1_file
+git status
+git add ex1_file
+git status
+git commit -m "primer ejercicio"
+git status
+git push
+git push ex1_file
+git push --set-upstream ex1_file master
+cd Repos
+cd
+cd Repos
+cd clasesMaster
+cat ~/.history > ex1_2020_11_13.txt
